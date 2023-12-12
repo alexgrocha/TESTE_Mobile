@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Clonar o repositório') {
             steps {
-                git branch: 'main', url: 'https://github.com/JessicaTeixeiraAraujo/Test_Mobile_Advanced.git'
+                git branch: 'main', url: 'https://github.com/alexgrocha/Test_Mobile_Advanced.git'
             }
         }
     }
