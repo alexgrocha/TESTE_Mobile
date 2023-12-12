@@ -8,7 +8,7 @@
     "wdio": "wdio run ./wdio.conf.js"
   },
   "keywords": [],
-  "author": "Jessica Teixeira Araujo",
+  "author": "Alex Rocha",
   "license": "ISC",
   "dependencies": {
     "@wdio/allure-reporter": "^8.12.3",
